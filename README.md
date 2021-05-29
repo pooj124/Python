@@ -7,6 +7,6 @@ I've tried some simple projects to strengthen my basics. Working on simple proje
 This is a simple python project for generating a random password using Alphabets, Symbols and Numbers.
 We import the "random" module in python and create a list to append the random password generated.
 
-2. Hangman Game in Python
+**2. Hangman Game in Python**
  
 Implementing the Hangman game in python using, using while loop, lists and the "random" module. 
