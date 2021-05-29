@@ -1,4 +1,5 @@
 # Python Projects
+I've tried some simple projects to strengthen my basics. Working on simple projects really helps to understand how the concepts are actually applied rather than just reading about them or trying them out as small code snippets. I've gathered the below projects from blogs and other sources, they're very useful.
 
 
 1. Random Password Generator
