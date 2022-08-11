@@ -1,0 +1,328 @@
+2022-07-22 18:25:28,162: root:17
+2022-07-22 18:25:28,162: root:1
+2022-07-22 18:25:28,162: root:12
+2022-07-22 18:26:04,438: root:17
+2022-07-22 18:26:04,438: root:1
+2022-07-22 18:26:04,438: root:12
+2022-07-22 18:26:24,935: root:17
+2022-07-22 18:26:24,935: root:1
+2022-07-22 18:26:24,935: root:12
+2022-07-22 18:26:36,243: root:17
+2022-07-22 18:26:36,243: root:1
+2022-07-22 18:26:36,243: root:12
+2022-07-22 18:26:36,243: root:0.0
+2022-07-22 18:26:54,267: root:17
+2022-07-22 18:26:54,268: root:1
+2022-07-22 18:26:54,268: root:12
+2022-07-22 18:26:54,268: root:0.0
+2022-07-22 18:27:04,982: root:17
+2022-07-22 18:27:04,982: root:1
+2022-07-22 18:27:04,982: root:12
+2022-07-22 18:27:04,982: root:0.0
+2022-07-22 18:27:20,078: root:17
+2022-07-22 18:27:20,078: root:1
+2022-07-22 18:27:20,078: root:12
+2022-07-22 18:27:20,078: root:Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 22, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 18:28:50,481: root:17
+2022-07-22 18:28:50,482: root:1
+2022-07-22 18:28:50,482: root:12
+2022-07-22 18:28:50,482: root:Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 22, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 18:34:02,137: DEBUG: root: 1
+2022-07-22 18:34:02,138: DEBUG: root: 12
+2022-07-22 18:34:02,138: ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 22, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 18:37:41,392 | DEBUG: root: 1
+2022-07-22 18:37:41,392 | DEBUG: root: 12
+2022-07-22 18:37:41,392 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 22, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 18:38:47,785 | DEBUG: root: 1
+2022-07-22 18:38:47,785 | DEBUG: root: 12
+2022-07-22 18:38:47,785 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 22, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 18:45:16,442 | DEBUG: root: 1
+2022-07-22 18:45:16,442 | DEBUG: root: 12
+2022-07-22 18:45:16,442 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 22, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 18:49:35,080 | INFO: root: Add
+2022-07-22 18:49:35,080 | DEBUG: root: 1
+2022-07-22 18:49:35,080 | DEBUG: root: 12
+2022-07-22 18:49:35,080 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 22, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 18:50:28,827 | DEBUG: root: 1
+2022-07-22 18:50:28,828 | DEBUG: root: 12
+2022-07-22 18:50:28,828 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 22, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 18:50:41,522 | INFO: root: 17
+2022-07-22 18:50:41,522 | DEBUG: root: 1
+2022-07-22 18:50:41,522 | DEBUG: root: 12
+2022-07-22 18:50:41,522 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 22, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 18:53:13,676 | INFO: root: Add f{self.list[1]+self.list[2]}
+2022-07-22 18:53:13,676 | DEBUG: root: 1
+2022-07-22 18:53:13,677 | DEBUG: root: 12
+2022-07-22 18:53:13,677 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 22, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 18:57:37,531 | INFO: root: 17 Add
+2022-07-22 18:57:37,532 | DEBUG: root: 1
+2022-07-22 18:57:37,532 | DEBUG: root: 12
+2022-07-22 18:57:37,532 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 23, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 18:59:13,352 | INFO: root: Add:
+2022-07-22 18:59:13,353 | DEBUG: root: 1
+2022-07-22 18:59:13,353 | DEBUG: root: 12
+2022-07-22 18:59:13,353 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 18:59:40,074 | INFO: root: Add:
+2022-07-22 18:59:40,074 | DEBUG: root: 1
+2022-07-22 18:59:40,074 | DEBUG: root: 12
+2022-07-22 18:59:40,074 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 19:00:50,709 | INFO: root: Add :17
+2022-07-22 19:00:50,710 | DEBUG: root: 1
+2022-07-22 19:00:50,710 | DEBUG: root: 12
+2022-07-22 19:00:50,710 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    logging.debug(self.list[9] / self.list[10])
+ZeroDivisionError: division by zero
+2022-07-22 19:03:00,979 | INFO: root: Add :17
+2022-07-22 19:03:00,980 | DEBUG: root: Sub :1
+2022-07-22 19:03:00,980 | DEBUG: root: Mul :12
+2022-07-22 19:03:00,980 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 25, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-23 19:37:55,485 | INFO: root: Add :17
+2022-07-23 19:37:55,485 | DEBUG: root: Sub :1
+2022-07-23 19:37:55,485 | DEBUG: root: Mul :12
+2022-07-23 19:37:55,485 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-23 19:57:44,073 | INFO: root: Add :17
+2022-07-23 19:57:44,073 | DEBUG: root: Sub :1
+2022-07-23 19:57:44,073 | DEBUG: root: Mul :12
+2022-07-23 19:57:44,073 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-23 22:10:58,620 | INFO: root: Add :17
+2022-07-23 22:10:58,620 | DEBUG: root: Sub :1
+2022-07-23 22:10:58,620 | DEBUG: root: Mul :12
+2022-07-23 22:10:58,620 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-23 22:12:56,516 | INFO: root: Add :17
+2022-07-23 22:12:56,517 | DEBUG: root: Sub :0
+2022-07-23 22:12:56,517 | DEBUG: root: Mul :12
+2022-07-23 22:12:56,517 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-23 22:32:55,223 | INFO: root: Add :17
+2022-07-23 22:32:55,223 | DEBUG: root: Sub :0
+2022-07-23 22:32:55,224 | DEBUG: root: Mul :12
+2022-07-23 22:32:55,224 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:13:01,417 | INFO: root: Add :17
+2022-07-24 17:13:01,418 | DEBUG: root: Sub :0
+2022-07-24 17:13:01,418 | DEBUG: root: Mul :12
+2022-07-24 17:13:01,418 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:29:18,715 | INFO: root: Add :17
+2022-07-24 17:29:18,716 | DEBUG: root: Sub :0
+2022-07-24 17:29:18,716 | DEBUG: root: Mul :12
+2022-07-24 17:29:18,716 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:29:35,750 | INFO: root: Add :17
+2022-07-24 17:29:35,750 | DEBUG: root: Sub :0
+2022-07-24 17:29:35,750 | DEBUG: root: Mul :12
+2022-07-24 17:29:35,750 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:30:20,867 | INFO: root: Add :17
+2022-07-24 17:30:20,867 | DEBUG: root: Sub :0
+2022-07-24 17:30:20,867 | DEBUG: root: Mul :12
+2022-07-24 17:30:20,867 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:30:39,592 | INFO: root: Add :17
+2022-07-24 17:30:39,592 | DEBUG: root: Sub :0
+2022-07-24 17:30:39,592 | DEBUG: root: Mul :12
+2022-07-24 17:30:39,592 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:40:11,336 | INFO: root: Add :17
+2022-07-24 17:40:11,336 | DEBUG: root: Sub :0
+2022-07-24 17:40:11,336 | DEBUG: root: Mul :12
+2022-07-24 17:40:11,336 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:41:02,567 | INFO: root: Add :17
+2022-07-24 17:41:02,567 | DEBUG: root: Sub :0
+2022-07-24 17:41:02,567 | DEBUG: root: Mul :12
+2022-07-24 17:41:02,567 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:47:41,617 | INFO: root: Add :17
+2022-07-24 17:47:41,618 | DEBUG: root: Sub :0
+2022-07-24 17:47:41,618 | DEBUG: root: Mul :12
+2022-07-24 17:47:41,618 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:51:30,755 | INFO: root: Add :17
+2022-07-24 17:51:30,755 | DEBUG: root: Sub :0
+2022-07-24 17:51:30,755 | DEBUG: root: Mul :12
+2022-07-24 17:51:30,755 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:52:22,657 | INFO: root: Add :17
+2022-07-24 17:52:22,659 | DEBUG: root: Sub :0
+2022-07-24 17:52:22,659 | DEBUG: root: Mul :12
+2022-07-24 17:52:22,659 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:52:26,620 | INFO: root: Add :17
+2022-07-24 17:52:26,620 | DEBUG: root: Sub :0
+2022-07-24 17:52:26,620 | DEBUG: root: Mul :12
+2022-07-24 17:52:26,620 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:55:44,404 | INFO: root: Add :17
+2022-07-24 17:55:44,405 | DEBUG: root: Sub :0
+2022-07-24 17:55:44,405 | DEBUG: root: Mul :12
+2022-07-24 17:55:44,405 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:56:05,269 | INFO: root: Add :17
+2022-07-24 17:56:05,270 | DEBUG: root: Sub :0
+2022-07-24 17:56:05,270 | DEBUG: root: Mul :12
+2022-07-24 17:56:05,270 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 17:56:31,125 | INFO: root: Add :17
+2022-07-24 17:56:31,125 | DEBUG: root: Sub :0
+2022-07-24 17:56:31,125 | DEBUG: root: Mul :12
+2022-07-24 17:56:31,125 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 18:17:54,701 | INFO: root: Add :17
+2022-07-24 18:17:54,702 | DEBUG: root: Sub :0
+2022-07-24 18:17:54,702 | DEBUG: root: Mul :12
+2022-07-24 18:17:54,702 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 18:18:58,473 | INFO: root: Add :17
+2022-07-24 18:18:58,473 | DEBUG: root: Sub :0
+2022-07-24 18:18:58,473 | DEBUG: root: Mul :12
+2022-07-24 18:18:58,473 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 18:20:10,903 | INFO: root: Add :17
+2022-07-24 18:20:10,903 | DEBUG: root: Sub :0
+2022-07-24 18:20:10,903 | DEBUG: root: Mul :12
+2022-07-24 18:20:10,903 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 18:22:36,818 | INFO: root: Add :17
+2022-07-24 18:22:36,818 | DEBUG: root: Sub :0
+2022-07-24 18:22:36,818 | DEBUG: root: Mul :12
+2022-07-24 18:22:36,819 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
+2022-07-24 18:25:51,351 | INFO: root: Add :17
+2022-07-24 18:25:51,352 | DEBUG: root: Sub :0
+2022-07-24 18:25:51,352 | DEBUG: root: Mul :12
+2022-07-24 18:25:51,352 | ERROR: root: Tried to divide by 0
+Traceback (most recent call last):
+  File "/Users/p/PycharmProjects/pythonProject2/arithmetic.py", line 24, in div
+    division = self.list[9] / self.list[10]
+ZeroDivisionError: division by zero
